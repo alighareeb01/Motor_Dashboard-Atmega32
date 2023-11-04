@@ -38,3 +38,4 @@ This project makes use of the following drivers:
 - If the correct password is entered, you will have access to the dashboard functions.
 - Use the keypad to control LEDs (on/off) and the direction of the stepper motor.
 
+"# Motor_Dashboard-Atmega32" 
