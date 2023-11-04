@@ -27,8 +27,6 @@ This project makes use of the following drivers:
 
 - **LCD (Liquid Crystal Display Driver)**: To display information on an LCD screen.
 
-- **SEGMENT (Seven-Segment Display Driver)**: For displaying numeric values.
-
 - **KPD (Keypad Driver)**: For keypad input handling.
 
 ## Usage
@@ -37,5 +35,3 @@ This project makes use of the following drivers:
 - Press '=' to submit the password.
 - If the correct password is entered, you will have access to the dashboard functions.
 - Use the keypad to control LEDs (on/off) and the direction of the stepper motor.
-
-"# Motor_Dashboard-Atmega32" 
